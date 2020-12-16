@@ -1,3 +1,3 @@
 # demo README
 
-*main* is best
+*bar* and *main* are both great
