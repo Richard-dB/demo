@@ -1,3 +1,3 @@
 # demo README
 
-*bar* and *main* are both great
+*bar* and *main* and *foo* are all great
